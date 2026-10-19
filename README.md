@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gab543&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gab543&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=gab543&title=MultiLanguage,LongTimeUser,Commits,Repositories&theme=dracula&margin-w=15&margin-h=15&no-frame=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
